@@ -1,2 +1,1 @@
-# tindog
-a website to tinder
+TinDog Starting Files
